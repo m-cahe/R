@@ -24,6 +24,9 @@ RStudio Desktop 1.4.1717
 <변수 불러오기>
   - DataFram$컬렴명 ex) kia$선수이름
   
+<기초>
+  - c( , , ) : c는 combine의 약자
+  
   
 <통계지식 +a>
   #통계에선 colume을 변수라고 호칭, 변수: 다양한 값이 들어갈 수 있는 형태
