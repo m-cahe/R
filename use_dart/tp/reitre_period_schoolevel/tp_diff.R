@@ -19,8 +19,7 @@ library(dplyr)
 
 View(df)
 
-# %>% : chain operation (%>%), pipe operation   //ctrl + shift + M
-# 오류 could not find function "%>%"  에 대한 대안 -> packages('dplyr')설치&libray(dplyr) 
+
 
 #특정 열출력 df$열이름
 data.frame(df$재직기간)
